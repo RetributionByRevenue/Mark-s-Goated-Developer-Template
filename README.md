@@ -13,7 +13,14 @@ Preact is a performance-focused, lightweight alternative to React. Developed by 
 Hyperscript Tagged Markup is a programming paradigm that allows developers to write HTML-like markup directly within JavaScript, using tagged template literals. This approach enables the creation of web components and user interfaces in a more declarative and concise manner, where the structure and behavior of elements are defined within the JavaScript code itself. One significant advantage of Hyperscript Tagged Markup is its avoidance of transpilation processes typically required in other JavaScript frameworks like React or Vue. By eliminating the need for transpilation, developers can work more efficiently, reduce build times, and simplify their development workflows. Additionally, the direct integration of markup within JavaScript enhances code readability and maintainability, as it consolidates both markup and logic in a single coherent context, facilitating easier comprehension and debugging.
 
 
-
+**How to use?**
+clone the project. in the project directory run the following:
+<pre>
+python -m venv venv
+source ./venv/bin/activate
+pip install fastapi,uvicorn
+python -m uvicorn main:app
+</pre>
 
 
 
