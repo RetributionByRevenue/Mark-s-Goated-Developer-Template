@@ -17,4 +17,4 @@ Hyperscript Tagged Markup is a programming paradigm that allows developers to wr
 
 
 
-<img src="https://raw.githubusercontent.com/RetributionByRevenue/Mark-s-Goated-Developer-Template/main/Homepage1.jpg" width=320px height=450px>
+<img src="https://raw.githubusercontent.com/RetributionByRevenue/Mark-s-Goated-Developer-Template/main/Homepage1.jpg" width=380px height=450px>
