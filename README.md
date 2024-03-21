@@ -18,7 +18,7 @@ clone the project. in the project directory run the following:
 <pre>
 python -m venv venv
 source ./venv/bin/activate
-pip install fastapi,uvicorn
+pip install fastapi uvicorn
 python -m uvicorn main:app
 </pre>
 
